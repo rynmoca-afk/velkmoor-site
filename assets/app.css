@@ -12,9 +12,11 @@
 }
 .app-pillwindow{--accent:#0e7c6b;--accent-soft:rgba(14,124,107,.09)}
 .app-stepsmith{--accent:#2e5c6b;--accent-soft:rgba(46,92,107,.09)}
+.app-takeboth{--accent:#8a6a00;--accent-soft:rgba(138,106,0,.09)}
 @media (prefers-color-scheme:dark){
   .app-pillwindow{--accent:#34c3a9;--accent-soft:rgba(52,195,169,.12)}
   .app-stepsmith{--accent:#85b8c7;--accent-soft:rgba(133,184,199,.12)}
+  .app-takeboth{--accent:#ffcc00;--accent-soft:rgba(255,204,0,.12)}
 }
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
